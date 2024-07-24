@@ -1,4 +1,4 @@
 # Trillo Project
 
-- A booking app Frontend Project In CSS with Sass(Scss).
+- Work in progress booking app Frontend project In CSS with Sass(Scss).
   
