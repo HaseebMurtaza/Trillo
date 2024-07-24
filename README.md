@@ -1,3 +1,4 @@
 # Trillo Project
 
-- This project is for me to master flexbox and also Sass will be used as well
+- Work in progress booking app Frontend project In CSS with Sass(Scss).
+  
