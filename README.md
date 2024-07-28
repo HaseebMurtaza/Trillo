@@ -1,3 +1,4 @@
 # Trillo Project
 
-- Work in progress frontend of booking app In using Sass(Scss) .
+- frontend of booking app named Trillo using Sass(Scss).
+- Working to make it responsive
